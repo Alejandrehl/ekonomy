@@ -7,6 +7,7 @@ ruby '2.5.1'
 gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
 gem 'devise'
+gem "haml-rails", "~> 1.0"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.0'
